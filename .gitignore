@@ -5,3 +5,5 @@ dist
 .idea
 .vscode
 *.log
+Диаграмма классов.drawio
+*.postman.json
